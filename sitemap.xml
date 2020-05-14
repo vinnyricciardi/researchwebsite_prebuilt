@@ -42,11 +42,6 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/contact/</loc>
-    <lastmod>2020-05-13</lastmod>
-  </url>
-  
-  <url>
     <loc>https://myurl.com/page-list/</loc>
     <lastmod>2020-05-13</lastmod>
   </url>
@@ -74,6 +69,11 @@
   <url>
     <loc>https://myurl.com/photos/</loc>
     <lastmod>2020-05-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/contact/</loc>
+    <lastmod>2020-05-14</lastmod>
   </url>
   
   <url>
