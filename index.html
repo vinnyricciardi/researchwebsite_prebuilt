@@ -211,86 +211,135 @@
   </div>
   </div>
  -->
-<script type="text/javascript">
+<script src="/path/to/masonry.pkgd.min.js">
+// init Masonry
+var $grid = $('.grid').masonry({
+  itemSelector: '.grid-item',
+  percentPosition: true,
+  columnWidth: '.grid-sizer'
+});
 
-function resizeGridItem(item){
-  grid = document.getElementsByClassName("grid")[0];
-  rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-  rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
-  rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
-item.style.gridRowEnd = "span "+rowSpan;
+// layout Masonry after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+</script>
+
+<style type="text/css">
+
+* { box-sizing: border-box; }
+
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
 }
 
-function resizeAllGridItems(){
-  allItems = document.getElementsByClassName("item");
-  for(x=0;x<allItems.length;x++){
-    resizeGridItem(allItems[x]);
+.grid-sizer,
+.grid-item {
+  width: 33.333%;
+  border: 5px solid #333;
+  border-color: hsla(0, 0%, 0%, 0.5);
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.grid-item--width2 {
+  width: 66.67%
+}
+.grid-item--height2 {
+  height: 66.67%
+}
+
+@media (max-width: 575px) {
+  .grid-sizer,
+  .grid-item {
+    width: 100%;
+    margin-right: 50px; 
+  }
+  .grid-item--width2 {
+    width: 50%
+  }
+  .grid-item--height2 {
+    height: 50%
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .grid-sizer,
+  .grid-item {
+    width: 50%;
+  }
+  .grid-item--width2 {
+    width: 50%
+  }
+  .grid-item--height2 {
+    height: 50%
   }
 }
 
-function resizeInstance(instance){
-    item = instance.elements[0];
-  resizeGridItem(item);
+/* To change the amount of columns on larger devices, uncomment the code below */
+
+/* @media (min-width: 768px) and (max-width: 991px) {
+  .grid-sizer,
+  .grid-item {
+    width: 33.333%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .grid-sizer,
+  .grid-item {
+    width: 25%;
+  }
+}
+@media (min-width: 1200px) {
+  .grid-sizer,
+  .grid-item {
+    width: 20%;
+  }
+} */
+
+.grid-item {
+  float: left;
 }
 
-window.onload = resizeAllGridItems();
-window.addEventListener("resize", resizeAllGridItems);
+.grid-item img {
+  display: block;
+  max-width: 100%;
+}
 
-allItems = document.getElementsByClassName("item");
-for(x=0;x<allItems.length;x++){
-  imagesLoaded( allItems[x], resizeInstance);
-}
-</script>
-<style type="text/css">
-.grid {
-  display: grid;
-  grid-gap: 10px;
-  grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
-  grid-auto-rows: 20px;
-}
 </style>
 
 
-<div class="grid">  
-  <div class="item">
-    <div class="content">
-      <a target="_blank" href="https://www.worldbank.org/en/publication/wdr2021"><img src="/img/w3images/wdr.png" style="width:100%;margin-bottom:10px"></a>
-    </div> 
-  </div>
-  <div class="item">
-    <div class="content">
-      <a target="_blank" href="https://ceres2030.org/water-scarce-solutions/"><img src="/img/w3images/ceres.png" style="width:100%;margin-bottom:10px"></a>
-    </div>
-  </div>
-  <div class="item">
-    <div class="content">
-      <a target="_blank" href="https://vinnyricciardi.github.io/global-farmsize-app/"><img src="/img/w3images/global_smallholder_app.png" style="width:100%;margin-bottom:10px"></a>
-    </div>
-  </div>
-  <div class="item">
-    <div class="content">
-      <a target="_blank" href="https://www.nature.com/articles/s42003-019-0516-1"><img src="/img/w3images/smallfarm-infographic.png" style="width:100%;margin-bottom:10px"></a>
-    </div>
-  </div>
-  <div class="item">
-    <div class="content">
-      <a target="_blank" href="http://datatopics.worldbank.org/world-development-indicators/"><img src="/img/w3images/wdi.png" style="width:100%;margin-bottom:10px"></a>
-    </div>
-  </div>
-  <div class="item">
-    <div class="content">
-      <a target="_blank" href="https://www.sesync.org/project/propose-a-pursuit/food-energy-water-interdependencies-of-the-global-agrarian-transition"><img src="/img/w3images/lsla.png" style="width:100%;margin-bottom:10px"></a>
-    </div>
-  </div>
-</div>
+<div class="container-fluid">
+  
+  <!-- <h1 class="my-4 font-weight-bold">Masonry - images option</h1> -->
 
-
-     
-    <!-- End photo grid -->
+  <div class="grid">
+    <div class="grid-sizer"></div>
+    <div class="grid-item">
+      <a target="_blank" href="https://www.worldbank.org/en/publication/wdr2021"><img src="/img/w3images/wdr.png"/></a>
     </div>
+    <div class="grid-item">
+      <a target="_blank" href="https://ceres2030.org/water-scarce-solutions/"><img src="/img/w3images/ceres.png"/></a>
+    </div>
+    <div class="grid-item gri">
+      <a target="_blank" href="https://vinnyricciardi.github.io/global-farmsize-app/"><img src="/img/w3images/global_smallholder_app.png"/></a>
+    </div>
+    <div class="grid-item">
+      <a target="_blank" href="https://www.nature.com/articles/s42003-019-0516-1"><img src="/img/w3images/smallfarm-infographic.png"/></a>
+    </div>
+    <div class="grid-item">
+      <a target="_blank" href="https://www.sesync.org/project/propose-a-pursuit/food-energy-water-interdependencies-of-the-global-agrarian-transition"><img src="/img/w3images/lsla.png"></a>
+    </div>
+    <div class="grid-item">
+      <a target="_blank" href="http://datatopics.worldbank.org/world-development-indicators/"><img src="/img/w3images/wdi.png"></a>
+    </div>
+  </div>
+  
+</div> 
+  <!-- End photo grid -->
   <!-- End Portfolio Section -->
-  </div>
- <div class="w3-content w3-justify w3-text-grey w3-padding-64">
+
+<div class="w3-content w3-justify w3-text-grey w3-padding-64">
 <h1>Latest 3 Posts</h1>
 
 
