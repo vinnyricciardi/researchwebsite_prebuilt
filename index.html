@@ -211,24 +211,76 @@
   </div>
   </div>
  -->
-<div class="row">  
-  <div class="column">
-    <a target="_blank" href="https://www.worldbank.org/en/publication/wdr2021"><img src="/img/w3images/wdr.png" style="width:100%;margin-bottom:0px"></a>
-  </div> 
-  <div class="column">
-    <a target="_blank" href="https://ceres2030.org/water-scarce-solutions/"><img src="/img/w3images/nlp.png" style="width:100%;margin-bottom:0px"></a>
+<script type="text/javascript">
+
+function resizeGridItem(item){
+  grid = document.getElementsByClassName("grid")[0];
+  rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+  rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
+  rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+item.style.gridRowEnd = "span "+rowSpan;
+}
+
+function resizeAllGridItems(){
+  allItems = document.getElementsByClassName("item");
+  for(x=0;x<allItems.length;x++){
+    resizeGridItem(allItems[x]);
+  }
+}
+
+function resizeInstance(instance){
+    item = instance.elements[0];
+  resizeGridItem(item);
+}
+
+window.onload = resizeAllGridItems();
+window.addEventListener("resize", resizeAllGridItems);
+
+allItems = document.getElementsByClassName("item");
+for(x=0;x<allItems.length;x++){
+  imagesLoaded( allItems[x], resizeInstance);
+}
+</script>
+<style type="text/css">
+.grid {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+  grid-auto-rows: 20px;
+}
+</style>
+
+
+<div class="grid">  
+  <div class="item">
+    <div class="content">
+      <a target="_blank" href="https://www.worldbank.org/en/publication/wdr2021"><img src="/img/w3images/wdr.png" style="width:100%;margin-bottom:10px"></a>
+    </div> 
   </div>
-  <div class="column">
-    <a target="_blank" href="https://vinnyricciardi.github.io/global-farmsize-app/"><img src="/img/w3images/global_smallholder_app.png" style="width:100%;margin-bottom:0px"></a>
+  <div class="item">
+    <div class="content">
+      <a target="_blank" href="https://ceres2030.org/water-scarce-solutions/"><img src="/img/w3images/ceres.png" style="width:100%;margin-bottom:10px"></a>
+    </div>
   </div>
-  <div class="column">
-    <a target="_blank" href="https://www.nature.com/articles/s42003-019-0516-1"><img src="/img/w3images/smallfarm-infographic.png" style="width:100%;margin-bottom:0px"></a>
+  <div class="item">
+    <div class="content">
+      <a target="_blank" href="https://vinnyricciardi.github.io/global-farmsize-app/"><img src="/img/w3images/global_smallholder_app.png" style="width:100%;margin-bottom:10px"></a>
+    </div>
   </div>
-  <div class="column">
-    <a target="_blank" href="http://datatopics.worldbank.org/world-development-indicators/"><img src="/img/w3images/wdi.png" style="width:100%;margin-bottom:0px"></a>
+  <div class="item">
+    <div class="content">
+      <a target="_blank" href="https://www.nature.com/articles/s42003-019-0516-1"><img src="/img/w3images/smallfarm-infographic.png" style="width:100%;margin-bottom:10px"></a>
+    </div>
   </div>
-  <div class="column">
-    <a target="_blank" href="https://www.sesync.org/project/propose-a-pursuit/food-energy-water-interdependencies-of-the-global-agrarian-transition"><img src="/img/w3images/ml.png" style="width:100%;margin-bottom:0px"></a>
+  <div class="item">
+    <div class="content">
+      <a target="_blank" href="http://datatopics.worldbank.org/world-development-indicators/"><img src="/img/w3images/wdi.png" style="width:100%;margin-bottom:10px"></a>
+    </div>
+  </div>
+  <div class="item">
+    <div class="content">
+      <a target="_blank" href="https://www.sesync.org/project/propose-a-pursuit/food-energy-water-interdependencies-of-the-global-agrarian-transition"><img src="/img/w3images/lsla.png" style="width:100%;margin-bottom:10px"></a>
+    </div>
   </div>
 </div>
 
@@ -272,7 +324,7 @@
 <p>More posts can be found in <a href="/posts/">the archive</a>.</p>
 </div>
 <!-- Contact Section -->
-  <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+  <div class="w3-padding-64 w3-content" id="contact">
     <h2 class="w3-text-light-grey">Contact Me</h2>
     <hr style="width:200px" class="w3-opacity">
 
