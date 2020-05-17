@@ -52,12 +52,12 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/notphoto/</loc>
+    <loc>https://myurl.com/tags/blog/</loc>
     <lastmod>2020-05-13</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/photo/</loc>
+    <loc>https://myurl.com/tags/notphoto/</loc>
     <lastmod>2020-05-13</lastmod>
   </url>
   
@@ -78,6 +78,6 @@
   
   <url>
     <loc>https://myurl.com/</loc>
-    <lastmod>2020-05-15</lastmod>
+    <lastmod>2020-05-16</lastmod>
   </url>
 </urlset>

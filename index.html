@@ -78,6 +78,22 @@
  <h1 class="w3-jumbo">Vinny Ricciardi</h1>
   <h2>Data Scientist</h2>
   <img src="img/w3images/avatar.png" alt="boy" class="w3-image" width="300" height="1108">
+
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js">
+// init Masonry
+var $grid = $('.grid').masonry({
+  itemSelector: '.grid-item',
+  percentPosition: true,
+  columnWidth: '.grid-sizer'
+});
+
+// layout Masonry after each image loads
+$grid.imagesLoaded().progress( function() {
+  $grid.masonry();
+});
+
+</script>
+
 </header>
 
 
@@ -147,83 +163,7 @@
 
 
 <!-- Portfolio Section -->
-  <div class="w3-padding-64 w3-content" id="photos">
-    <h2 class="w3-text-light-grey">Recent Projects</h2>
-    <hr style="width:200px" class="w3-opacity">
 
-    <!-- Grid for photos -->
-    <div class="w3-row-padding" style="margin:0 -16px">
-
-  
-    
-<style>
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create two equal columns that sit next to each other */
-.column {
-  flex: 50%;
-  max-width: 50%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
-  
-@media (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-  
-
-</style>
-<!-- <div class="row"> 
-  <div class="column">
-   
-   
-  
-    <a href="/posts/Smallholder/"><img src = "/img/w3images/global_smallholder_app.png" style="width:100%;margin-bottom:0px" > </a>
-  
-  
-   
-  
-    <a href="/posts/MtnAdaptation/"><img src = "/img/w3images/mtn_adaptation_app.png" style="width:100%;margin-bottom:0px" > </a>
-  
-  
-   
-  
-    <a href="/posts/colours/"><img src = "/img/w3images/colours.png" style="width:100%;margin-bottom:0px" > </a>
-  
-  
-   
-      </div><div class="column">
-      
-  
-    <a href="/posts/RuLIS/"><img src = "/img/w3images/rulis.png" style="width:100%;margin-bottom:0px" > </a>
-  
-  
-  </div>
-  </div>
- -->
-<script src="/path/to/masonry.pkgd.min.js">
-// init Masonry
-var $grid = $('.grid').masonry({
-  itemSelector: '.grid-item',
-  percentPosition: true,
-  columnWidth: '.grid-sizer'
-});
-
-// layout Masonry after each image loads
-$grid.imagesLoaded().progress( function() {
-  $grid.masonry();
-});
-</script>
 
 <style type="text/css">
 
@@ -308,34 +248,36 @@ $grid.imagesLoaded().progress( function() {
 
 </style>
 
+<div class="w3-padding-64 w3-content" id="photos">
+  <h2 class="w3-text-light-grey">Recent Projects</h2>
+  <hr style="width:200px" class="w3-opacity">
 
-<div class="container-fluid">
-  
-  <!-- <h1 class="my-4 font-weight-bold">Masonry - images option</h1> -->
-
-  <div class="grid">
-    <div class="grid-sizer"></div>
-    <div class="grid-item">
-      <a target="_blank" href="https://www.worldbank.org/en/publication/wdr2021"><img src="/img/w3images/wdr.png"/></a>
+  <div class="container-fluid">
+    
+    <div class="grid">
+      <div class="grid-sizer"></div>
+      <div class="grid-item">
+        <a target="_blank" href="https://www.worldbank.org/en/publication/wdr2021"><img src="/img/w3images/wdr.png"/></a>
+      </div>
+      <div class="grid-item">
+        <a target="_blank" href="https://ceres2030.org/water-scarce-solutions/"><img src="/img/w3images/ceres.png"/></a>
+      </div>
+      <div class="grid-item">
+        <a target="_blank" href="https://vinnyricciardi.github.io/global-farmsize-app/"><img src="/img/w3images/global_smallholder_app.png"/></a>
+      </div>
+      <div class="grid-item">
+        <a target="_blank" href="https://www.nature.com/articles/s42003-019-0516-1"><img src="/img/w3images/smallfarm-infographic.png"/></a>
+      </div>
+      <div class="grid-item">
+        <a target="_blank" href="https://www.sesync.org/project/propose-a-pursuit/food-energy-water-interdependencies-of-the-global-agrarian-transition"><img src="/img/w3images/lsla.png"></a>
+      </div>
+      <div class="grid-item">
+        <a target="_blank" href="http://datatopics.worldbank.org/world-development-indicators/"><img src="/img/w3images/wdi.png"></a>
+      </div>
     </div>
-    <div class="grid-item">
-      <a target="_blank" href="https://ceres2030.org/water-scarce-solutions/"><img src="/img/w3images/ceres.png"/></a>
-    </div>
-    <div class="grid-item gri">
-      <a target="_blank" href="https://vinnyricciardi.github.io/global-farmsize-app/"><img src="/img/w3images/global_smallholder_app.png"/></a>
-    </div>
-    <div class="grid-item">
-      <a target="_blank" href="https://www.nature.com/articles/s42003-019-0516-1"><img src="/img/w3images/smallfarm-infographic.png"/></a>
-    </div>
-    <div class="grid-item">
-      <a target="_blank" href="https://www.sesync.org/project/propose-a-pursuit/food-energy-water-interdependencies-of-the-global-agrarian-transition"><img src="/img/w3images/lsla.png"></a>
-    </div>
-    <div class="grid-item">
-      <a target="_blank" href="http://datatopics.worldbank.org/world-development-indicators/"><img src="/img/w3images/wdi.png"></a>
-    </div>
-  </div>
-  
-</div> 
+    
+  </div> 
+</div>
   <!-- End photo grid -->
   <!-- End Portfolio Section -->
 
@@ -350,21 +292,21 @@ $grid.imagesLoaded().progress( function() {
     <a href="/posts/RuLIS/" class="postlist-link">Data on 3 million farmers</a>
     <time class="postlist-date" datetime="2019-02-27">27 Feb 2019</time>
     
-      <a href="/tags/photo/" class="tag">photo</a>
+      <a href="/tags/blog/" class="tag">blog</a>
   </li>
 
   <li class="postlist-item">
     <a href="/posts/landgrabs/" class="postlist-link">Use the news - Spotting the next land grab</a>
     <time class="postlist-date" datetime="2018-11-30">30 Nov 2018</time>
     
-      <a href="/tags/notphoto/" class="tag">notphoto</a>
+      <a href="/tags/blog/" class="tag">blog</a>
   </li>
 
   <li class="postlist-item">
     <a href="/posts/colours/" class="postlist-link">Colours of Food Security</a>
     <time class="postlist-date" datetime="2018-09-30">30 Sep 2018</time>
     
-      <a href="/tags/photo/" class="tag">photo</a>
+      <a href="/tags/blog/" class="tag">blog</a>
   </li>
 
 </ol>
@@ -373,30 +315,30 @@ $grid.imagesLoaded().progress( function() {
 <p>More posts can be found in <a href="/posts/">the archive</a>.</p>
 </div>
 <!-- Contact Section -->
-  <div class="w3-padding-64 w3-content" id="contact">
-    <h2 class="w3-text-light-grey">Contact Me</h2>
-    <hr style="width:200px" class="w3-opacity">
+<div class="w3-padding-64 w3-content" id="contact">
+  <h2 class="w3-text-light-grey">Contact Me</h2>
+  <hr style="width:200px" class="w3-opacity">
 
-    <div class="w3-section">
-      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Email: vinnyricciardi@gmail.com</p>
-      <p><i class="fa fa-linkedin fa-fw w3-text-white w3-xxlarge w3-margin-right"></i><a target="_blanks" href="https://www.linkedin.com/in/vinnyr">LinkedIn</a> </p>
-      <p><i class="fa fa-twitter fa-fw w3-text-white w3-xxlarge w3-margin-right"></i><a target="_blanks" href="https://twitter.com/vinnyricciardi">Twitter</a> </p>
-    </div><br>
-    <p>Lets get in touch. Send me a message:</p>
+  <div class="w3-section">
+    <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Email: vinnyricciardi@gmail.com</p>
+    <p><i class="fa fa-linkedin fa-fw w3-text-white w3-xxlarge w3-margin-right"></i><a target="_blanks" href="https://www.linkedin.com/in/vinnyr">LinkedIn</a> </p>
+    <p><i class="fa fa-twitter fa-fw w3-text-white w3-xxlarge w3-margin-right"></i><a target="_blanks" href="https://twitter.com/vinnyricciardi">Twitter</a> </p>
+  </div><br>
+  <p>Lets get in touch. Send me a message:</p>
 
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Email" required name="Email"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Subject" required name="Subject"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message" required name="Message"></p>
-      <p>
-        <button class="w3-button w3-light-grey w3-padding-large" type="submit">
-          <i class="fa fa-paper-plane"></i> SEND MESSAGE
-        </button>
-      </p>
-    </form>
-  <!-- End Contact Section -->
-  </div>
+  <form action="/action_page.php" target="_blank">
+    <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+    <p><input class="w3-input w3-padding-16" type="text" placeholder="Email" required name="Email"></p>
+    <p><input class="w3-input w3-padding-16" type="text" placeholder="Subject" required name="Subject"></p>
+    <p><input class="w3-input w3-padding-16" type="text" placeholder="Message" required name="Message"></p>
+    <p>
+      <button class="w3-button w3-light-grey w3-padding-large" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </p>
+  </form>
+<!-- End Contact Section -->
+</div>
 
 
 
