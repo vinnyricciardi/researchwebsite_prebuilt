@@ -5,7 +5,7 @@
 	
 	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
 	<link href="https://myurl.com/"/>
-	<updated>2019-02-26T19:00:00-05:00</updated>
+	<updated>2020-05-21T08:19:36.217-04:00</updated>
 	<id>https://myurl.com/</id>
 	<author>
 		<name>Vinny Ricciardi</name>
@@ -20,7 +20,7 @@
 		<content type="html">&lt;p&gt;There has been a zombie statistic floating around for the last 10 years: small farms grow 70-80% of the world&#39;s food. There was little transparency on the methods behind this statistic, yet major news outlets, NGOs, and multilateral agencies were quoting it to garner support for small farms. I led a project to look into this stat and found farms under 2 ha in size grow around 30%, which is still an &lt;a href=&quot;https://medium.com/the-nature-of-food/small-farms-grow-a-large-portion-of-the-worlds-food-59ed07019a9&quot;&gt;impressive figure!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Explore our new dataset on how much food is produced by differently sized farms. For each of the 55 countries, we found nationally  representative surveys and censuses that asked farmers how much of each  crop they produced. Using this information, we calculated how much total crop production (in kilocalories) each farm size produced. Because  different types of crops are allocated towards human food, animal feed,  processed non-food goods, seed for planting, or are wasted during  storage and transportation, we then worked out how each farm size  allocated their production. All together, our dataset has &amp;gt; 150 crops from 55 countries. Click each tab to find out how much food, feed,  processed goods, seed, or waste small farms are producing and how much  land they&#39;re using compared to larger farms - and check out how crop  diversity differs across farm sizes.&lt;/p&gt;
 &lt;p&gt;For more details &lt;a href=&quot;https://doi.org/10.1016/j.gfs.2018.05.002&quot;&gt;check out our article&lt;/a&gt; and the &lt;a href=&quot;https://data.mendeley.com/datasets/tp63z6dz5g/1&quot;&gt;downloadable dataset&lt;/a&gt; that contains sub-national information.&lt;/p&gt;
-&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://vinnyricciardi.github.io/global-farmsize-app/&quot; rel=&quot;fs-app&quot;&gt;&lt;img src=&quot;https://myurl.com/img/w3images/global_smallholder_app.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;a target=_blank&amp;quot; href=&amp;quot;https://vinnyricciardi.github.io/global-farmsize-app/&amp;quot;&amp;gt;&lt;img src=&quot;https://myurl.com/img/w3images/global_smallholder_app.png&quot; style=&quot;width:100%&quot;&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -32,8 +32,8 @@
 		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.fao.org/docrep/019/i3480e/i3480e.pdf&quot;&gt;&amp;quot;Mountain farming is family farming&amp;quot;&lt;/a&gt; and climate change is disrupting the lives of the 915 million people living in mountain areas.&lt;/p&gt;
 &lt;p&gt;This &lt;a href=&quot;https://mtn-adaptation.shinyapps.io/mcdowell_etal_2018/&quot;&gt;map&lt;/a&gt; shows our recent effort to synthesize the scientific literature on how people in mountain regions are adapting. 170 articles documenting over 690  discrete adaptations are represented. Explore the map, links to the  literature, and the different types of methods used in this body of  literature. The underlying data and accompanying article can be found here (link to come):&lt;/p&gt;
 &lt;p&gt;McDowell, G., Huggel, C., Frey, H., Wang, F., Cramer, R.,  Ricciardi, V. 2019. Adaptation action and research in glaciated  mountain systems: Are they enough to meet the challenge of climate  change? Global Environmental Change. 54: 19-30. (&lt;a href=&quot;https://doi.org/10.1016/j.gloenvcha.2018.10.012&quot;&gt;Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mtn-adaptation.shinyapps.io/mcdowell_etal_2018/&quot;&gt;&lt;img src=&quot;https://myurl.com/images/mtn_adaptation_app.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://mtn-adaptation.shinyapps.io/mcdowell_etal_2018/&quot;&gt;&lt;img src=&quot;https://myurl.com/img/w3images/mtn_adaptation_app.png&quot; style=&quot;width:100%&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/vinnyricciardi/mt-adaptation_McDowell_etal_2018&quot;&gt;Fork our GitHub repo here!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
@@ -50,7 +50,7 @@
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;For more details &lt;a href=&quot;https://doi.org/10.1016/j.gfs.2018.05.002&quot;&gt;check out our article&lt;/a&gt; and the &lt;a href=&quot;https://data.mendeley.com/datasets/tp63z6dz5g/1&quot;&gt;downloadable dataset&lt;/a&gt; that contains sub-national information.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vinnyricciardi.github.io/global-farmsize-app/&quot;&gt;&lt;img scr=&quot;/img/w3images/global_smallholder_app.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;a target=_blank&amp;quot; href=&amp;quot;https://vinnyricciardi.github.io/global-farmsize-app/&amp;quot;&amp;gt;&lt;img src=&quot;https://myurl.com/img/w3images/global_smallholder_app.png&quot; style=&quot;width:100%&quot;&gt;&lt;/p&gt;
 &lt;br&gt;
 [Fork our GitHub repo here!](https://github.com/vinnyricciardi/global-farmsize-app)
 &lt;br&gt;&lt;br&gt;</content>
@@ -75,7 +75,7 @@
 		<content type="html">&lt;p&gt;The &lt;a href=&quot;https://www.colours-of-food-security.com/exhibition/a-cultivated-planet/&quot;&gt;Colours of Food Security&lt;/a&gt; is a series of striking images that use colour and data-driven visualization of decades of scientific research  to paint a picture of the global food system today. These data have  enabled the undertaking of a broad range of policy analyses on the problems inherent in the way agriculture operates on a global scale.  They have been used by a range of scientists, governments, NGOs, and food activists, and are featured in a wide range of news outlets and  media, including National Geographic Magazine, The New York Times, and  The Economist. The research underlying this exhibit helps to inform decision-making and solutions towards a more sustainable future.&lt;/p&gt;
 &lt;p&gt;This project was a large collaborative effort that I helped support. For full acknowledgements please visit the exhibit&#39;s &lt;a href=&quot;https://www.colours-of-food-security.com/about/&quot;&gt;about&lt;/a&gt; page.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;[[!]&lt;a href=&quot;https://myurl.com/img/w3images/colours.png&quot;&gt;&lt;/a&gt;](&lt;a href=&quot;https://www.colours-of-food-security.com/exhibition/a-cultivated-planet/&quot;&gt;https://www.colours-of-food-security.com/exhibition/a-cultivated-planet/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.colours-of-food-security.com/exhibition/a-cultivated-planet/&quot;&gt;&lt;img src=&quot;https://myurl.com/img/w3images/colours.png&quot; style=&quot;width:100%&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 </content>
 	</entry>
@@ -105,8 +105,388 @@
 &lt;p&gt;The Rural Livelihood Information System (RuLIS) is a dataset of nationally representative surveys from 37 countries. There are around 280 variables and data is available at the micro-level (e.g., individual farmer responses). It will become open access later this year.&lt;/p&gt;
 &lt;p&gt;This interactive app shows all the household variables available, for which countries they are available, and how many survey years for each variable. I am in collaboration with RuLIS to further explore how their dataset can help understand key dimensions of vulnerable farmers and their incomes - an effort to support achieving the &lt;a href=&quot;http://www.fao.org/sustainable-development-goals/indicators&quot;&gt;Sustainable Development Goal 2.3&lt;/a&gt;, &amp;quot;doubling the income of small-scale farmers.&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;[!]&lt;a href=&quot;https://vinnyricciardi.shinyapps.io/fao_rulis/&quot;&gt;/img/w3images/rulis.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://vinnyricciardi.shinyapps.io/fao_rulis/&quot;&gt;&lt;img src=&quot;https://myurl.com/img/w3images/rulis.png&quot; style=&quot;width:100%&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/mt_farming_pub/"/>
+		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<id>https://myurl.com/posts/mt_farming_pub/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Adaptation action and research in glaciated mountain systems: Are they enough to meet the challenge of climate change?&lt;br&gt;
+description: Adaptation action and research in glaciated mountain systems: Are they enough to meet the challenge of climate change?&lt;br&gt;
+date: 01-01-2019&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0959378018306617&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0959378018306617&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/science_art_partnership_pub/"/>
+		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<id>https://myurl.com/posts/science_art_partnership_pub/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Science–graphic art partnerships to increase research impact&lt;br&gt;
+description: Science–graphic art partnerships to increase research impact&lt;br&gt;
+date: 08-06-2019&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.nature.com/articles/s42003-019-0516-1&quot;&gt;https://www.nature.com/articles/s42003-019-0516-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/tradeoffs_agsystems_pub/"/>
+		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<id>https://myurl.com/posts/tradeoffs_agsystems_pub/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Trade-offs in the performance of alternative farming systems&lt;br&gt;
+description: Trade-offs in the performance of alternative farming systems&lt;br&gt;
+date: 10-09-2019&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12534&quot;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12534&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/%EF%BB%BFfilename/"/>
+		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<id>https://myurl.com/posts/%EF%BB%BFfilename/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: title&lt;br&gt;
+description: description&lt;br&gt;
+date: date&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blogtype&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: url&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/bu_landcover/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/bu_landcover/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Buruli ulcer disease and its association with land cover in southwestern Ghana&lt;br&gt;
+description: Buruli ulcer disease and its association with land cover in southwestern Ghana&lt;br&gt;
+date: 06-19-2015&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003840&quot;&gt;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003840&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/bu_situated_knowledge/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/bu_situated_knowledge/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Situated knowledge of pathogenic landscapes in Ghana: understanding the emergence of Buruli ulcer through qualitative analysis&lt;br&gt;
+description: Situated knowledge of pathogenic landscapes in Ghana: understanding the emergence of Buruli ulcer through qualitative analysis&lt;br&gt;
+date: 02-01-2016&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0277953615302677&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0277953615302677&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/cambodia_swot/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/cambodia_swot/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Capacity development in agricultural education and training in Cambodia: a SWOT analysis.&lt;br&gt;
+description: Capacity development in agricultural education and training in Cambodia: a SWOT analysis.&lt;br&gt;
+date: 05-02-2016&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.aiaee.org/index.php/vol-24-1-april-17/1671-capacity-development-in-agricultural-education-and-training-in-cambodia-a-swot-analysis&quot;&gt;https://www.aiaee.org/index.php/vol-24-1-april-17/1671-capacity-development-in-agricultural-education-and-training-in-cambodia-a-swot-analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/gfs_smallfarms_data_pub/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/gfs_smallfarms_data_pub/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: An open-access dataset of crop production by farm size from agricultural censuses and surveys&lt;br&gt;
+description: An open-access dataset of crop production by farm size from agricultural censuses and surveys&lt;br&gt;
+date: 09-01-2018&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S235234091830708X&quot;&gt;https://www.sciencedirect.com/science/article/pii/S235234091830708X&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/gfs_smallfarms_pub/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/gfs_smallfarms_pub/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: How much of our world’s food do smallholders produce?&lt;br&gt;
+description: How much of our world’s food do smallholders produce?&lt;br&gt;
+date: 06-01-2018&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2211912417301293&quot;&gt;https://www.sciencedirect.com/science/article/pii/S2211912417301293&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/markets_sweet_potato/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/markets_sweet_potato/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Food security sweet potato production and proximity to markets in northern Ghana&lt;br&gt;
+description: Food security sweet potato production and proximity to markets in northern Ghana&lt;br&gt;
+date: 11-23-2017&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.facetsjournal.com/doi/10.1139/facets-2017-0027&quot;&gt;https://www.facetsjournal.com/doi/10.1139/facets-2017-0027&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/rev_smallfarm_cc/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/rev_smallfarm_cc/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Smallholder agriculture and climate change&lt;br&gt;
+description: Smallholder agriculture and climate change&lt;br&gt;
+date: 10-01-2017&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.annualreviews.org/doi/10.1146/annurev-environ-102016-060946&quot;&gt;https://www.annualreviews.org/doi/10.1146/annurev-environ-102016-060946&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/seed_networks/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/seed_networks/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Social seed networks: identifying central farmers for equitable seed access&lt;br&gt;
+description: Social seed networks: identifying central farmers for equitable seed access&lt;br&gt;
+date: 10-01-2015&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0308521X15300068&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0308521X15300068&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/seedsystems_methods/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/seedsystems_methods/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Methodologies for strengthening informal indigenous vegetable seed systems in Northern Thailand and Cambodia&lt;br&gt;
+description: Methodologies for strengthening informal indigenous vegetable seed systems in Northern Thailand and Cambodia&lt;br&gt;
+date: 09-01-2012&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.actahort.org/books/958/958_6.htm&quot;&gt;https://www.actahort.org/books/958/958_6.htm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/seedsystems_strateges/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/seedsystems_strateges/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Designing strategies and systems to identify preserve and promote underutilized indigenous crop species&lt;br&gt;
+description: Designing strategies and systems to identify preserve and promote underutilized indigenous crop species&lt;br&gt;
+date: 03-01-2013&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.actahort.org/members/showpdf?booknrarnr=979_61&quot;&gt;https://www.actahort.org/members/showpdf?booknrarnr=979_61&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/seedsystems_strength/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/seedsystems_strength/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Strengthening informal seed systems to enhance food security in Southeast Asi&lt;br&gt;
+description: Strengthening informal seed systems to enhance food security in Southeast Asi&lt;br&gt;
+date: 05-29-2013&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://foodsystemsjournal.org/index.php/fsj/article/view/177&quot;&gt;https://foodsystemsjournal.org/index.php/fsj/article/view/177&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/smallfarm_homophily/"/>
+		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<id>https://myurl.com/posts/smallfarm_homophily/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Homophily as a Safety Net: Investigating when smallholder farmers decide to buy hybrid seed in northern Ghana&lt;br&gt;
+description: Homophily as a Safety Net: Investigating when smallholder farmers decide to buy hybrid seed in northern Ghana&lt;br&gt;
+date: 12-07-2015&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publication&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://journals.psu.edu/ik/article/view/59741&quot;&gt;https://journals.psu.edu/ik/article/view/59741&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/aaas_scicom_blog/"/>
+		<updated>2020-05-21T08:19:36.217-04:00</updated>
+		<id>https://myurl.com/posts/aaas_scicom_blog/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Scientists should be science communicators&lt;br&gt;
+description: Scientists should be science communicators&lt;br&gt;
+date: 04-12-2019&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://www.aaas.org/programs/center-public-engagement-science-and-technology/reflections/scientists-should-be-science&quot;&gt;https://www.aaas.org/programs/center-public-engagement-science-and-technology/reflections/scientists-should-be-science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/covid_testing/"/>
+		<updated>2020-05-21T08:19:36.217-04:00</updated>
+		<id>https://myurl.com/posts/covid_testing/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: COVID-19: Testing for all or testing for some? A town’s key lesson in testing everyone for coronavirus&lt;br&gt;
+description: COVID-19: Testing for all or testing for some? A town’s key lesson in testing everyone for coronavirus&lt;br&gt;
+date: 04-29-2020&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://blogs.worldbank.org/opendata/covid-19-testing-all-or-testing-some-towns-key-lesson-testing-everyone-coronavirus&quot;&gt;https://blogs.worldbank.org/opendata/covid-19-testing-all-or-testing-some-towns-key-lesson-testing-everyone-coronavirus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/water_subidies/"/>
+		<updated>2020-05-21T08:19:36.217-04:00</updated>
+		<id>https://myurl.com/posts/water_subidies/</id>
+		<content type="html">&lt;hr&gt;
+&lt;p&gt;title: Water subsidies mostly benefit the wealthy&lt;br&gt;
+description: Water subsidies mostly benefit the wealthy&lt;br&gt;
+date: 09-11-2019&lt;br&gt;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog&lt;br&gt;
+layout: layouts/post.njk&lt;br&gt;
+image: /img/w3images/global_smallholder_app.png&lt;br&gt;
+externalurl: &lt;a href=&quot;https://blogs.worldbank.org/opendata/water-subsidies-mostly-benefit-wealthy&quot;&gt;https://blogs.worldbank.org/opendata/water-subsidies-mostly-benefit-wealthy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 </content>
 	</entry>
 </feed>
