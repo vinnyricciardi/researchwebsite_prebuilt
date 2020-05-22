@@ -5,7 +5,7 @@
 	
 	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
 	<link href="https://myurl.com/"/>
-	<updated>2020-05-21T08:19:36.217-04:00</updated>
+	<updated>2020-05-22T06:29:04.843-04:00</updated>
 	<id>https://myurl.com/</id>
 	<author>
 		<name>Vinny Ricciardi</name>
@@ -112,381 +112,191 @@
 	
 	<entry>
 		<title></title>
-		<link href="https://myurl.com/posts/mt_farming_pub/"/>
-		<updated>2020-05-21T08:19:36.209-04:00</updated>
-		<id>https://myurl.com/posts/mt_farming_pub/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Adaptation action and research in glaciated mountain systems: Are they enough to meet the challenge of climate change?&lt;br&gt;
-description: Adaptation action and research in glaciated mountain systems: Are they enough to meet the challenge of climate change?&lt;br&gt;
-date: 01-01-2019&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0959378018306617&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0959378018306617&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title></title>
 		<link href="https://myurl.com/posts/science_art_partnership_pub/"/>
-		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<updated>2020-05-22T06:29:04.835-04:00</updated>
 		<id>https://myurl.com/posts/science_art_partnership_pub/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Science–graphic art partnerships to increase research impact&lt;br&gt;
-description: Science–graphic art partnerships to increase research impact&lt;br&gt;
-date: 08-06-2019&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.nature.com/articles/s42003-019-0516-1&quot;&gt;https://www.nature.com/articles/s42003-019-0516-1&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Science–graphic art partnerships to increase research impact n    description: Science–graphic art partnerships to increase research impact n    date: 08-06-2019 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.nature.com/articles/s42003-019-0516-1&quot;&gt;https://www.nature.com/articles/s42003-019-0516-1&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/tradeoffs_agsystems_pub/"/>
-		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<updated>2020-05-22T06:29:04.835-04:00</updated>
 		<id>https://myurl.com/posts/tradeoffs_agsystems_pub/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Trade-offs in the performance of alternative farming systems&lt;br&gt;
-description: Trade-offs in the performance of alternative farming systems&lt;br&gt;
-date: 10-09-2019&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12534&quot;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12534&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Trade-offs in the performance of alternative farming systems n    description: Trade-offs in the performance of alternative farming systems n    date: 10-09-2019 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12534&quot;&gt;https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12534&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/%EF%BB%BFfilename/"/>
-		<updated>2020-05-21T08:19:36.209-04:00</updated>
+		<updated>2020-05-22T06:29:04.835-04:00</updated>
 		<id>https://myurl.com/posts/%EF%BB%BFfilename/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: title&lt;br&gt;
-description: description&lt;br&gt;
-date: date&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;blogtype&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: url&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: title n    description: description n    date: date n    tags: n      - blogtype n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: url&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/bu_landcover/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/bu_landcover/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Buruli ulcer disease and its association with land cover in southwestern Ghana&lt;br&gt;
-description: Buruli ulcer disease and its association with land cover in southwestern Ghana&lt;br&gt;
-date: 06-19-2015&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003840&quot;&gt;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003840&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Buruli ulcer disease and its association with land cover in southwestern Ghana n    description: Buruli ulcer disease and its association with land cover in southwestern Ghana n    date: 06-19-2015 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003840&quot;&gt;https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003840&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/bu_situated_knowledge/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/bu_situated_knowledge/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Situated knowledge of pathogenic landscapes in Ghana: understanding the emergence of Buruli ulcer through qualitative analysis&lt;br&gt;
-description: Situated knowledge of pathogenic landscapes in Ghana: understanding the emergence of Buruli ulcer through qualitative analysis&lt;br&gt;
-date: 02-01-2016&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0277953615302677&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0277953615302677&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Situated knowledge of pathogenic landscapes in Ghana: understanding the emergence of Buruli ulcer through qualitative analysis n    description: Situated knowledge of pathogenic landscapes in Ghana: understanding the emergence of Buruli ulcer through qualitative analysis n    date: 02-01-2016 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0277953615302677&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0277953615302677&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/cambodia_swot/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/cambodia_swot/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Capacity development in agricultural education and training in Cambodia: a SWOT analysis.&lt;br&gt;
-description: Capacity development in agricultural education and training in Cambodia: a SWOT analysis.&lt;br&gt;
-date: 05-02-2016&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.aiaee.org/index.php/vol-24-1-april-17/1671-capacity-development-in-agricultural-education-and-training-in-cambodia-a-swot-analysis&quot;&gt;https://www.aiaee.org/index.php/vol-24-1-april-17/1671-capacity-development-in-agricultural-education-and-training-in-cambodia-a-swot-analysis&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Capacity development in agricultural education and training in Cambodia: a SWOT analysis.  n    description: Capacity development in agricultural education and training in Cambodia: a SWOT analysis.  n    date: 05-02-2016 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.aiaee.org/index.php/vol-24-1-april-17/1671-capacity-development-in-agricultural-education-and-training-in-cambodia-a-swot-analysis&quot;&gt;https://www.aiaee.org/index.php/vol-24-1-april-17/1671-capacity-development-in-agricultural-education-and-training-in-cambodia-a-swot-analysis&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/gfs_smallfarms_data_pub/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/gfs_smallfarms_data_pub/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: An open-access dataset of crop production by farm size from agricultural censuses and surveys&lt;br&gt;
-description: An open-access dataset of crop production by farm size from agricultural censuses and surveys&lt;br&gt;
-date: 09-01-2018&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S235234091830708X&quot;&gt;https://www.sciencedirect.com/science/article/pii/S235234091830708X&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: An open-access dataset of crop production by farm size from agricultural censuses and surveys n    description: An open-access dataset of crop production by farm size from agricultural censuses and surveys n    date: 09-01-2018 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S235234091830708X&quot;&gt;https://www.sciencedirect.com/science/article/pii/S235234091830708X&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/gfs_smallfarms_pub/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/gfs_smallfarms_pub/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: How much of our world’s food do smallholders produce?&lt;br&gt;
-description: How much of our world’s food do smallholders produce?&lt;br&gt;
-date: 06-01-2018&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2211912417301293&quot;&gt;https://www.sciencedirect.com/science/article/pii/S2211912417301293&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: How much of our world’s food do smallholders produce?  n    description: How much of our world’s food do smallholders produce?  n    date: 06-01-2018 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2211912417301293&quot;&gt;https://www.sciencedirect.com/science/article/pii/S2211912417301293&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/markets_sweet_potato/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/markets_sweet_potato/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Food security sweet potato production and proximity to markets in northern Ghana&lt;br&gt;
-description: Food security sweet potato production and proximity to markets in northern Ghana&lt;br&gt;
-date: 11-23-2017&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.facetsjournal.com/doi/10.1139/facets-2017-0027&quot;&gt;https://www.facetsjournal.com/doi/10.1139/facets-2017-0027&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Food security sweet potato production and proximity to markets in northern Ghana n    description: Food security sweet potato production and proximity to markets in northern Ghana n    date: 11-23-2017 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.facetsjournal.com/doi/10.1139/facets-2017-0027&quot;&gt;https://www.facetsjournal.com/doi/10.1139/facets-2017-0027&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/mt_farming_pub/"/>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
+		<id>https://myurl.com/posts/mt_farming_pub/</id>
+		<content type="html">&lt;p&gt;--- n    title: Adaptation action and research in glaciated mountain systems: Are they enough to meet the challenge of climate change? n    description: Adaptation action and research in glaciated mountain systems: Are they enough to meet the challenge of climate change? n    date: 01-01-2019 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0959378018306617&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0959378018306617&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/rev_smallfarm_cc/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/rev_smallfarm_cc/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Smallholder agriculture and climate change&lt;br&gt;
-description: Smallholder agriculture and climate change&lt;br&gt;
-date: 10-01-2017&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.annualreviews.org/doi/10.1146/annurev-environ-102016-060946&quot;&gt;https://www.annualreviews.org/doi/10.1146/annurev-environ-102016-060946&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Smallholder agriculture and climate change n    description: Smallholder agriculture and climate change n    date: 10-01-2017 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.annualreviews.org/doi/10.1146/annurev-environ-102016-060946&quot;&gt;https://www.annualreviews.org/doi/10.1146/annurev-environ-102016-060946&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/seed_networks/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/seed_networks/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Social seed networks: identifying central farmers for equitable seed access&lt;br&gt;
-description: Social seed networks: identifying central farmers for equitable seed access&lt;br&gt;
-date: 10-01-2015&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0308521X15300068&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0308521X15300068&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title></title>
-		<link href="https://myurl.com/posts/seedsystems_methods/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
-		<id>https://myurl.com/posts/seedsystems_methods/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Methodologies for strengthening informal indigenous vegetable seed systems in Northern Thailand and Cambodia&lt;br&gt;
-description: Methodologies for strengthening informal indigenous vegetable seed systems in Northern Thailand and Cambodia&lt;br&gt;
-date: 09-01-2012&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.actahort.org/books/958/958_6.htm&quot;&gt;https://www.actahort.org/books/958/958_6.htm&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Social seed networks: identifying central farmers for equitable seed access n    description: Social seed networks: identifying central farmers for equitable seed access n    date: 10-01-2015 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0308521X15300068&quot;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0308521X15300068&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/seedsystems_strateges/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/seedsystems_strateges/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Designing strategies and systems to identify preserve and promote underutilized indigenous crop species&lt;br&gt;
-description: Designing strategies and systems to identify preserve and promote underutilized indigenous crop species&lt;br&gt;
-date: 03-01-2013&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.actahort.org/members/showpdf?booknrarnr=979_61&quot;&gt;https://www.actahort.org/members/showpdf?booknrarnr=979_61&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Designing strategies and systems to identify preserve and promote underutilized indigenous crop species n    description: Designing strategies and systems to identify preserve and promote underutilized indigenous crop species n    date: 03-01-2013 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.actahort.org/members/showpdf?booknrarnr=979_61&quot;&gt;https://www.actahort.org/members/showpdf?booknrarnr=979_61&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/seedsystems_strength/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/seedsystems_strength/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Strengthening informal seed systems to enhance food security in Southeast Asi&lt;br&gt;
-description: Strengthening informal seed systems to enhance food security in Southeast Asi&lt;br&gt;
-date: 05-29-2013&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://foodsystemsjournal.org/index.php/fsj/article/view/177&quot;&gt;https://foodsystemsjournal.org/index.php/fsj/article/view/177&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Strengthening informal seed systems to enhance food security in Southeast Asi n    description: Strengthening informal seed systems to enhance food security in Southeast Asi n    date: 05-29-2013 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://foodsystemsjournal.org/index.php/fsj/article/view/177&quot;&gt;https://foodsystemsjournal.org/index.php/fsj/article/view/177&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/smallfarm_homophily/"/>
-		<updated>2020-05-21T08:19:36.213-04:00</updated>
+		<updated>2020-05-22T06:29:04.839-04:00</updated>
 		<id>https://myurl.com/posts/smallfarm_homophily/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Homophily as a Safety Net: Investigating when smallholder farmers decide to buy hybrid seed in northern Ghana&lt;br&gt;
-description: Homophily as a Safety Net: Investigating when smallholder farmers decide to buy hybrid seed in northern Ghana&lt;br&gt;
-date: 12-07-2015&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;publication&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://journals.psu.edu/ik/article/view/59741&quot;&gt;https://journals.psu.edu/ik/article/view/59741&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Homophily as a Safety Net: Investigating when smallholder farmers decide to buy hybrid seed in northern Ghana n    description: Homophily as a Safety Net: Investigating when smallholder farmers decide to buy hybrid seed in northern Ghana n    date: 12-07-2015 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://journals.psu.edu/ik/article/view/59741&quot;&gt;https://journals.psu.edu/ik/article/view/59741&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/aaas_scicom_blog/"/>
-		<updated>2020-05-21T08:19:36.217-04:00</updated>
+		<updated>2020-05-22T06:29:04.843-04:00</updated>
 		<id>https://myurl.com/posts/aaas_scicom_blog/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Scientists should be science communicators&lt;br&gt;
-description: Scientists should be science communicators&lt;br&gt;
-date: 04-12-2019&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;blog&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://www.aaas.org/programs/center-public-engagement-science-and-technology/reflections/scientists-should-be-science&quot;&gt;https://www.aaas.org/programs/center-public-engagement-science-and-technology/reflections/scientists-should-be-science&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Scientists should be science communicators n    description: Scientists should be science communicators n    date: 04-12-2019 n    tags: n      - blog n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.aaas.org/programs/center-public-engagement-science-and-technology/reflections/scientists-should-be-science&quot;&gt;https://www.aaas.org/programs/center-public-engagement-science-and-technology/reflections/scientists-should-be-science&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/covid_testing/"/>
-		<updated>2020-05-21T08:19:36.217-04:00</updated>
+		<updated>2020-05-22T06:29:04.843-04:00</updated>
 		<id>https://myurl.com/posts/covid_testing/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: COVID-19: Testing for all or testing for some? A town’s key lesson in testing everyone for coronavirus&lt;br&gt;
-description: COVID-19: Testing for all or testing for some? A town’s key lesson in testing everyone for coronavirus&lt;br&gt;
-date: 04-29-2020&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;blog&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://blogs.worldbank.org/opendata/covid-19-testing-all-or-testing-some-towns-key-lesson-testing-everyone-coronavirus&quot;&gt;https://blogs.worldbank.org/opendata/covid-19-testing-all-or-testing-some-towns-key-lesson-testing-everyone-coronavirus&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: COVID-19: Testing for all or testing for some? A town’s key lesson in testing everyone for coronavirus n    description: COVID-19: Testing for all or testing for some? A town’s key lesson in testing everyone for coronavirus n    date: 04-29-2020 n    tags: n      - blog n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://blogs.worldbank.org/opendata/covid-19-testing-all-or-testing-some-towns-key-lesson-testing-everyone-coronavirus&quot;&gt;https://blogs.worldbank.org/opendata/covid-19-testing-all-or-testing-some-towns-key-lesson-testing-everyone-coronavirus&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<link href="https://myurl.com/posts/seedsystems_methods/"/>
+		<updated>2020-05-22T06:29:04.843-04:00</updated>
+		<id>https://myurl.com/posts/seedsystems_methods/</id>
+		<content type="html">&lt;p&gt;--- n    title: Methodologies for strengthening informal indigenous vegetable seed systems in Northern Thailand and Cambodia n    description: Methodologies for strengthening informal indigenous vegetable seed systems in Northern Thailand and Cambodia n    date: 09-01-2012 n    tags: n      - publication n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://www.actahort.org/books/958/958_6.htm&quot;&gt;https://www.actahort.org/books/958/958_6.htm&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title></title>
 		<link href="https://myurl.com/posts/water_subidies/"/>
-		<updated>2020-05-21T08:19:36.217-04:00</updated>
+		<updated>2020-05-22T06:29:04.843-04:00</updated>
 		<id>https://myurl.com/posts/water_subidies/</id>
-		<content type="html">&lt;hr&gt;
-&lt;p&gt;title: Water subsidies mostly benefit the wealthy&lt;br&gt;
-description: Water subsidies mostly benefit the wealthy&lt;br&gt;
-date: 09-11-2019&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;blog&lt;br&gt;
-layout: layouts/post.njk&lt;br&gt;
-image: /img/w3images/global_smallholder_app.png&lt;br&gt;
-externalurl: &lt;a href=&quot;https://blogs.worldbank.org/opendata/water-subsidies-mostly-benefit-wealthy&quot;&gt;https://blogs.worldbank.org/opendata/water-subsidies-mostly-benefit-wealthy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
+		<content type="html">&lt;p&gt;--- n    title: Water subsidies mostly benefit the wealthy n    description: Water subsidies mostly benefit the wealthy n    date: 09-11-2019 n    tags: n      - blog n    layout: layouts/post.njk n    image: /img/w3images/global_smallholder_app.png n    externalurl: &lt;a href=&quot;https://blogs.worldbank.org/opendata/water-subsidies-mostly-benefit-wealthy&quot;&gt;https://blogs.worldbank.org/opendata/water-subsidies-mostly-benefit-wealthy&lt;/a&gt;&lt;br&gt;
+n    ---&lt;/p&gt;
 </content>
 	</entry>
 </feed>
